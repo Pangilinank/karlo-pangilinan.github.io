@@ -1,0 +1,115 @@
+ <section id="about" class="about-mf sect-pt4 route">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="box-shadow-full">
+            <div class="row">
+              <div class="col-md-12">
+                <div class="row">
+                  <div class="col-sm-6 col-md-5">
+                    <div class="about-img">
+                      <img src="img/profile-picture.jpg" class="img-fluid rounded b-shadow-a" alt="">
+                    </div>
+                
+                    <div class="about-info">
+                      <p><span class="title-s">Name: </span> <span>Karlo Pangilinan</span></p>
+                      <p><span class="title-s">Profile: </span> <span>Front End Developer</span></p>
+                      <p><span class="title-s">Email: </span> <span>pangilinan.karlo04@gmail.com</span></p>
+                      <p><span class="title-s">Phone: </span> <span>(647) 673-5389</span></p>
+                    </div>
+                  </div>
+                </div>
+				
+                <div class="skill-mf">
+                  <p class="title-s">Skill</p>
+                  <span>HTML</span> <span class="pull-right">85%</span>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 85%;" aria-valuenow="85" aria-valuemin="0"
+                      aria-valuemax="100"></div>
+                  </div>
+                  <span>CSS3</span> <span class="pull-right">75%</span>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0"
+                      aria-valuemax="100"></div>
+                  </div>
+                  <span>PHP</span> <span class="pull-right">50%</span>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0"
+                      aria-valuemax="100"></div>
+                  </div>
+				  <span>Python</span> <span class="pull-right">70%</span>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="70" aria-valuemin="0"
+                      aria-valuemax="100"></div>
+                  </div>
+                  <span>JAVASCRIPT</span> <span class="pull-right">70%</span>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="70" aria-valuemin="0"
+                      aria-valuemax="100"></div>
+                  </div>
+				   <span>C#</span> <span class="pull-right">70%</span>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="70" aria-valuemin="0"
+                      aria-valuemax="100"></div>
+                  </div>
+           
+              </div> -->
+			  
+              <div class="col" style="text-align:center">
+                <div class="about-me pt-4 pt-md-0">
+                  <div class="title-box-2">
+                    <h5 class="title-left">
+                      About me
+                    </h5>
+                  </div>
+                  <p class="lead">
+                    A creative, innovative and comprehensive computer technology enthusiast equipped with several 
+					practical IT project experience as well as corporate environment working experience. A seasoned 
+					software developer who can utilize web and app applications to create front-end and back-end 
+					solutions to a variety of challenging projects.
+                  </p>
+				  <div >
+                    <h4>
+                      Education
+                    </h4>
+                  </div>
+                  <p class="lead">
+					<b>
+					Seneca College (Sep 2017 - Apr 2020) 
+					Ontario College Advanced Diploma – Computer Engineering Technology
+					Toronto, Canada 
+					</b>
+                  </p>
+                  <p class="lead">
+                    Course Projects: 
+					<ul>
+						<li>
+							Car Rental Booking Management System (4 months, December 2019): manages the customers,
+							vehicles information (J2EE / XHTML / JSP / CSS / JDBC)  
+						</li>
+						<li>
+							Database Management System (4 months, Apr 2019): connects database, run Query 
+							commands, and writes and read files (C#, SQL query) 
+						</li>
+						<li>
+							RIP v2 Routing and Switching Network Design (4 months, May 2019): completes 
+							a network design for a company to access HQ, branches, and ISP (Cisco, DHCP, DNS, VLAN, NAT, ACL) 
+						</li>
+						<li>
+							Camp Activity Registration System (4 months, April 2020): manages the rooms, 
+							students information (C#, ASP.NET / HTML / CSS / Oracle DB) 
+						</li>
+						<li>
+							Smart Home Security System(4 months, April 2020): A main project that uses facial recognition
+							for the security access (python, openCV, raspberry pi, HTML, CSS, MySQL)
+						</li>
+					<ul>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
